@@ -14,12 +14,14 @@ This repository contains my daily Python practice as I learned step by step.
 ### Day_2
 
 - Recursion (print 1 to n)
+- Factorial for n
 
 ## 🧠 Concepts Learned
 
 - Basics of Python
 - Conditions (if & else)
 - Operators
+- Recursion function 
 
 ## 🎯 Goal
 
@@ -32,5 +34,5 @@ To become strong in Python and data structures
 
 ## 📝 Author
 
-Narayan
+Narayan Naroote 
 
