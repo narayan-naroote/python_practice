@@ -1,36 +1,36 @@
-# Python Learning journey 
+# Python Learning Journey
 
-Hi, I'am narayan 👋
-This repository contains my daily python practice as I learned step by step.
+Hi, I'm Narayan 👋  
+This repository contains my daily Python practice as I learned step by step.
 
-## 📉PROGRESS
+## 📈 PROGRESS
 
 ### Day_1
 
--Hello program(start)
--Even and odd numbers
--Sum of numbers
+- Hello program (start)
+- Even and odd numbers
+- Sum of numbers
 
 ### Day_2
 
--Recursion (print 1 to n)
+- Recursion (print 1 to n)
 
-## Concepts Learned
+## 🧠 Concepts Learned
 
--Basics of python
--Conditions (if & else)
--Operators
+- Basics of Python
+- Conditions (if & else)
+- Operators
 
 ## 🎯 Goal
-To become strong in python and data structures 
 
-## ⚒️ Tools Used
+To become strong in Python and data structures
 
--PYTHON
--GitHub
+## 🛠️ Tools Used
+
+- Python
+- GitHub
 
 ## 📝 Author
 
-NARAYAN 
-
+Narayan
 
