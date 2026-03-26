@@ -15,13 +15,16 @@ This repository contains my daily Python practice as I learned step by step.
 
 - Recursion (print 1 to n)
 - Factorial for n
+- for loop
+- while loop
 
 ## 🧠 Concepts Learned
 
 - Basics of Python
 - Conditions (if & else)
 - Operators
-- Recursion function 
+- Recursion function
+- Loops (while and for)
 
 ## 🎯 Goal
 
