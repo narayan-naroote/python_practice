@@ -15,7 +15,6 @@ This repository contains my daily python practice as I learned step by step.
 
 -Recursion (print 1 to n)
 
-
 ## Concepts Learned
 
 -Basics of python
