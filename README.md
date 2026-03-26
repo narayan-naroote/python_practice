@@ -22,8 +22,8 @@ This repository contains my daily python practice as I learned step by step.
 To become strong in python and data structures 
 
 ## ⚒️ Tools Used
---PYTHON
---GitHub
+-PYTHON
+-GitHub
 
 ## 📝 Author 
 NARAYAN 
