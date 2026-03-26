@@ -17,6 +17,7 @@ This repository contains my daily Python practice as I learned step by step.
 - Factorial for n
 - for loop
 - while loop
+- passing students info
 
 ## 🧠 Concepts Learned
 
@@ -25,6 +26,7 @@ This repository contains my daily Python practice as I learned step by step.
 - Operators
 - Recursion function
 - Loops (while and for)
+- variable length arguments 
 
 ## 🎯 Goal
 
