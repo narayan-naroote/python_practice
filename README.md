@@ -6,7 +6,7 @@ This repository contains my daily python practice as I learned step by step.
 ## 📉PROGRESS
 ### Day_1
 -Hello program(start)
--Even and odd numbers 
+-Even and odd numbers
 -Sum of numbers
 
 ### Day_2
@@ -14,7 +14,7 @@ This repository contains my daily python practice as I learned step by step.
 
 
 ## Concepts Learned
--Basics of python 
+-Basics of python
 -Conditions (if & else)
 -Operators
 
