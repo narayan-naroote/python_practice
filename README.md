@@ -15,8 +15,8 @@ This repository contains my daily Python practice as I learned step by step.
 
 - Recursion (print 1 to n)
 - Factorial for n
-- for loop
-- while loop
+- printing numbers 1-->100(for loop)
+- display numbers 1-->10(while loop)
 - passing students info
 
 ## 🧠 Concepts Learned
