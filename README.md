@@ -19,6 +19,10 @@ This repository contains my daily Python practice as I learned step by step.
 - display numbers 1-->10(while loop)
 - passing students info
 
+### Day_3
+
+-passing key and value (dictionary)
+
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -27,6 +31,7 @@ This repository contains my daily Python practice as I learned step by step.
 - Recursion function
 - Loops (while and for)
 - variable length arguments 
+- keyword arguments 
 
 ## 🎯 Goal
 
