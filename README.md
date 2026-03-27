@@ -21,7 +21,8 @@ This repository contains my daily Python practice as I learned step by step.
 
 ### Day_3
 
--passing key and value (dictionary)
+- passing key and value (dictionary)
+- passing n number of values for adding 
 
 ## 🧠 Concepts Learned
 
@@ -29,6 +30,7 @@ This repository contains my daily Python practice as I learned step by step.
 - Conditions (if & else)
 - Operators
 - Recursion function
+- Arguments passing 
 - Loops (while and for)
 - variable length arguments 
 - keyword arguments 
