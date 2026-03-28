@@ -3,7 +3,7 @@ print(add(6,4))
 
 
 
-2) # Using lambda func printing in sorted order
+2) # Using lambda func printing students details in sorted order
 
 student = [
 {"name" : "narayan" , "marks" : 50},
