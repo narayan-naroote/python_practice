@@ -28,7 +28,8 @@ This repository contains my daily Python practice as I learned step by step.
 - operations on operands(+,-,*)
 
 ## Day_5
-- Hackerrank problem 1
+- Hackerrank problem 1(easy level)
+- Hackerrank problem 2
 
 ## 🧠 Concepts Learned
 
