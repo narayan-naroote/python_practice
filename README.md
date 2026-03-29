@@ -27,6 +27,9 @@ This repository contains my daily Python practice as I learned step by step.
 ## Day_4
 - operations on operands(+,-,*)
 
+## Day_5
+- Hackerrank problem 1
+
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -37,7 +40,8 @@ This repository contains my daily Python practice as I learned step by step.
 - Loops (while and for)
 - variable length arguments 
 - keyword arguments
-- nested recursion function 
+- nested recursion function
+
 
 ## 🎯 Goal
 
