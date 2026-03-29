@@ -30,6 +30,7 @@ This repository contains my daily Python practice as I learned step by step.
 ## Day_5
 - Hackerrank problem 1(easy level)
 - Hackerrank problem 2
+- Hackerrank problem 3
 
 ## 🧠 Concepts Learned
 
