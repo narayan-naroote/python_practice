@@ -43,6 +43,7 @@ This repository contains my daily Python practice as I learned step by step.
 - variable length arguments 
 - keyword arguments
 - nested recursion function
+- Solving method in Hackerrank 
 
 
 ## 🎯 Goal
