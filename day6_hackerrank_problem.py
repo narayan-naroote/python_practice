@@ -1,4 +1,4 @@
-s = input()
+s=input()
 
 isalnum_flag = False   #built string functions
 isalpha_flag = False
