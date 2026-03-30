@@ -32,6 +32,9 @@ This repository contains my daily Python practice as I learned step by step.
 - Hackerrank problem 2
 - Hackerrank problem 3
 
+##Day_6
+-Zipping make them in list of tupples
+
 ## 🧠 Concepts Learned
 
 - Basics of Python
