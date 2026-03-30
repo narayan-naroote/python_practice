@@ -34,6 +34,8 @@ This repository contains my daily Python practice as I learned step by step.
 
 ## Day_6
 - Zipping make them in list of tupples
+- using nested if-else and finding leap year
+- solving Hackerrank problems(mid and easy level)
 
 ## 🧠 Concepts Learned
 
