@@ -37,6 +37,9 @@ This repository contains my daily Python practice as I learned step by step.
 - using nested if-else and finding leap year
 - solving Hackerrank problems(mid and easy level)
 
+## Day_7
+- 3D coordinates printing 
+
 ## 🧠 Concepts Learned
 
 - Basics of Python
