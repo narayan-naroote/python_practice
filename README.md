@@ -40,6 +40,8 @@ This repository contains my daily Python practice as I learned step by step.
 ## Day_7
 - 3D coordinates printing 
 
+## Day_9
+- string number to floating point number 
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -53,6 +55,7 @@ This repository contains my daily Python practice as I learned step by step.
 - nested recursion function
 - Solving method in Hackerrank
 - combing the data and makes pair(Zipping)
+- Type casting 
 
 
 
