@@ -41,7 +41,8 @@ This repository contains my daily Python practice as I learned step by step.
 - 3D coordinates printing 
 
 ## Day_9
-- string number to floating point number 
+- string number to floating point number
+- Simple Calculator(First Project)
 ## 🧠 Concepts Learned
 
 - Basics of Python
