@@ -43,6 +43,10 @@ This repository contains my daily Python practice as I learned step by step.
 ## Day_9
 - string number to floating point number
 - Simple Calculator(First Project)
+
+## Day_10
+- Karnataka foods (city-->dishes)
+- adding another dishes to previous dict
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -56,7 +60,8 @@ This repository contains my daily Python practice as I learned step by step.
 - nested recursion function
 - Solving method in Hackerrank
 - combing the data and makes pair(Zipping)
-- Type casting 
+- Type casting
+- dictionary and updating dictionaries
 
 
 
