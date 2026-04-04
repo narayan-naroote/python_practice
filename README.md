@@ -47,6 +47,7 @@ This repository contains my daily Python practice as I learned step by step.
 ## Day_10
 - Karnataka foods (city-->dishes)
 - adding another dishes to previous dict
+- adding items from two dictionaries 
 ## 🧠 Concepts Learned
 
 - Basics of Python
