@@ -1,4 +1,4 @@
-# Python Learning Journey
+ko# Python Learning Journey
 
 Hi, I'm Narayan 👋  
 This repository contains my daily Python practice as I learned step by step.
@@ -48,6 +48,9 @@ This repository contains my daily Python practice as I learned step by step.
 - Karnataka foods (city-->dishes)
 - adding another dishes to previous dict
 - adding items from two dictionaries 
+
+## Day_11
+- student name in Oop's
 ## 🧠 Concepts Learned
 
 - Basics of Python
