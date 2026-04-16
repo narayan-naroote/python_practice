@@ -51,6 +51,9 @@ This repository contains my daily Python practice as I learned step by step.
 
 ## Day_11
 - student name in Oop's
+
+## Day_13
+- Car starting
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -66,6 +69,8 @@ This repository contains my daily Python practice as I learned step by step.
 - combing the data and makes pair(Zipping)
 - Type casting
 - dictionary and updating dictionaries
+- Encapsulation concept 
+- Abstraction concept
 
 
 
