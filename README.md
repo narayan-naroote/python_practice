@@ -74,7 +74,7 @@ This repository contains my daily Python practice as I learned step by step.
 - dictionary and updating dictionaries
 - Encapsulation concept 
 - Abstraction concept
-- Built project using concepts abstraction and encapsulation (Atm system)
+- Built mini-project using concepts abstraction and encapsulation (Atm system)
 
 
 
