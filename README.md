@@ -57,6 +57,7 @@ This repository contains my daily Python practice as I learned step by step.
 
 ## Day_15
 - Atm system 
+- login system 
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -75,6 +76,7 @@ This repository contains my daily Python practice as I learned step by step.
 - Encapsulation concept 
 - Abstraction concept
 - Built mini-project using concepts abstraction and encapsulation (Atm system)
+- Inheritance in Oop's 
 
 
 
