@@ -58,6 +58,10 @@ This repository contains my daily Python practice as I learned step by step.
 ## Day_15
 - Atm system 
 - login system 
+
+## Day_16
+- student avg marks
+- Car colour and car type 
 ## 🧠 Concepts Learned
 
 - Basics of Python
