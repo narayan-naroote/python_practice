@@ -28,4 +28,3 @@ print(c1.fuel_type)
 print(c1.color)
 
 c1.start()
-c1.stop()
