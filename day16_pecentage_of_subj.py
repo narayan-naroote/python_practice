@@ -12,6 +12,6 @@ s1 = Students(89, 67, 56)
 print("Old %:", s1.percentage())
 
 # 🔹 Change marks
-s1.math = 90
+s1.math = 99
 
 print("New %:", s1.percentage())
