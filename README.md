@@ -61,7 +61,11 @@ This repository contains my daily Python practice as I learned step by step.
 
 ## Day_16
 - student avg marks
-- Car colour and car type 
+- Car colour and car type
+
+## Day_20
+- Adding,removing and view prices from cart
+- Adding students details and display 
 ## 🧠 Concepts Learned
 
 - Basics of Python
@@ -80,7 +84,11 @@ This repository contains my daily Python practice as I learned step by step.
 - Encapsulation concept 
 - Abstraction concept
 - Built mini-project using concepts abstraction and encapsulation (Atm system)
-- Inheritance in Oop's 
+- Inheritance in Oop's
+- Menu Driven programs 
+- Student Management system 
+
+
 
 
 
