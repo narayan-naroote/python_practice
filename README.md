@@ -100,6 +100,7 @@ To become strong in Python and data structures
 
 - Python
 - GitHub
+- HTML and web development 
 
 ## 📝 Author
 
