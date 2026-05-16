@@ -1,4 +1,4 @@
-ko# Python Learning Journey
+# Python Learning Journey
 
 Hi, I'm Narayan 👋  
 This repository contains my daily Python practice as I learned step by step.
